@@ -19,6 +19,7 @@ In addition to the essential characteristics, you could also implement:
 • In the ‘module notes’ or ‘assessment notes’, links could open in a separate browser or a
 separate pane.
  
+ </br>
 Your application will be written using C#, should make use of Windows Forms (for the GUI application) and demonstrate object oriented principles in the structure of your code.
 The design and testing report should contain the following:
 • A design for the application which should include: o A written description of the application
