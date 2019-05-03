@@ -1,0 +1,12 @@
+CODE
+CMP1234555
+TITLE
+Title Name
+SYNOPSIS
+Module information in this Box
+.LO
+LO1
+LO2
+LO3
+ASSIGNMENT
+04/10/2020
