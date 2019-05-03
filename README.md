@@ -1,13 +1,14 @@
 # Note-Taker--Programming-And-Data-Structures
 
-
+ </br>
 This assignment requires you to design and develop a ‘module note taker’ type application called “modnote”. This could be either a Windows Forms application, or a console application. Your application should have the following essential requirements:
-• It is designed as a desktop application – do not consider the application on a mobile platform, the Universal Windows Platform (UWP) etc.
-• It could be developed as a console application that includes these essential requirements.
-• Module information (title, summary content, learning outcomes, assignment due dates etc) will
+ </br>
+• It is designed as a desktop application – do not consider the application on a mobile platform, the Universal Windows Platform (UWP) etc. </br>
+• It could be developed as a console application that includes these essential requirements. </br>
+• Module information (title, summary content, learning outcomes, assignment due dates etc) will </br>
 be held in a separate file. This information will need to be imported either by default, or if the
 user selects that module from a list/drop down box etc.
-• As well as being added, modules could be ‘deleted’. i.e. remove them from the application.
+• As well as being added, modules could be ‘deleted’. i.e. remove them from the application. </br>
 • Each module should have ‘notes’ associated with it. The user can create a new ‘note’ which can contain text and optionally, items such as images and links. Modules could have multiple notes. ‘Notes’ should be able to be titled (such as ‘Lecture 1 notes’ etc).
 • Assignments should display whether their due date has been reached or not.
 • Modules can either be displayed all together (probably a bit visually cluttered), or use other
